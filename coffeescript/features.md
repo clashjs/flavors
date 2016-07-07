@@ -12,7 +12,6 @@
 - Splatting
 - Comprehensions
 - Arrow Functions
-
 - Destructuring Assignments
 - Chained Comparisons
 - Block Strings

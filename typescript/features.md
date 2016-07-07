@@ -7,7 +7,6 @@
 - Compile-time type checking
 - Type inference
 - Interfaces
-
 - Enums
 - Mixin
 - Generics

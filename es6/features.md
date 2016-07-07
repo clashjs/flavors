@@ -11,7 +11,6 @@
 - Generators
 - Unicode
 - Modules
-
 - Module loaders
 - map + set + weakmap + weakset
 - Proxies

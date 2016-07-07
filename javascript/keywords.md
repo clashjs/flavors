@@ -8,7 +8,6 @@
 - default
 - delete
 - else
-
 - finally
 - for
 - function
@@ -17,7 +16,6 @@
 - instanceof
 - new
 - return
-
 - switch
 - this
 - throw
