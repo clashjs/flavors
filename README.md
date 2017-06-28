@@ -5,3 +5,5 @@
 3. [TypeScript](http://www.typescriptlang.org/)
 4. [Elm](http://elm-lang.org/)
 5. [ClojureScript](https://clojurescript.org/)
+
+![TypeScript vs Babel](TypeScript_Babel_Decision.png)
