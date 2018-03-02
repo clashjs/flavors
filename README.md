@@ -8,4 +8,4 @@
 6. [ClojureScript](https://clojurescript.org/)
 7. [Reason](https://reasonml.github.io/)
 
-![TypeScript VS Babel](TypeScript_Babel_Decision.png)
+![TypeScript VS Babel](img/TypeScript_Babel_Decision.png)
