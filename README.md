@@ -1,6 +1,8 @@
 # JavaScript Flavors
 
-[ES6](http://es6-features.org/)
+> Learn [ES2015](http://es6-features.org/)
+
+## 2019 ranking
 
 1. [TypeScript](https://www.typescriptlang.org/)
 2. [Reason](https://reasonml.github.io/)
